@@ -1,3 +1,3 @@
-# angular-ivy-mevzd1
+# NG-PIZZA
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-mevzd1)
